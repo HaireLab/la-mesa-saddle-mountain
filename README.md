@@ -17,9 +17,18 @@ Korb, J. E., Fornwalt, P. J., & Stevens-Rumann, C. S. (2019). What drives ponder
 
 ### Files in this repository
 
+#### Metadata form from TNC-UM project organizers:
 
-metadata_lamesa.xlsx: metadata form from TNC-UM project organizers.
+metadata_lamesa.xlsx
 
+metadata_saddlemountain.xlsx
+
+#### Tabular data files:
 
 lamesa_data.csv: data for La Mesa fire (1977)
+
+saddlemountain_data.csv: data for Saddle Mountain fire (1960)
+
+#### Spatial data files:
+
 
